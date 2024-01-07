@@ -1,0 +1,57 @@
+.mainContainer{
+    margin: auto;
+    text-align: center;
+    max-width: 400px;
+}
+
+.test{
+padding:10px;
+border: 0;
+background-color: rgb(192, 206, 201);
+cursor: pointer;
+transition: 0.5s all;
+border-radius: 0 10px 10px 0;
+}
+.test:hover{
+    background-color: rgb(120, 168, 153);
+}
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+.title{
+    background-color: #e7e7e7;
+    color:black;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+.create{
+    padding: 10px;
+    background-color: rgb(103, 137, 168);
+    border: 0;
+    cursor: pointer;
+    color: white;
+    transition: .5s all;
+    border-radius: 10px 0 0 10px;
+}
+.create:hover{
+    
+    background-color: #56526e;
+}
+.save{
+    display: block;
+    margin:10px auto 0;
+    padding: 10px;
+    background-color: rgba(47, 122, 97, 0.671);
+    color: white;
+    font-weight: bold;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s all;
+}
+.save:hover{
+    background-color: rgb(98, 218, 178);
+}

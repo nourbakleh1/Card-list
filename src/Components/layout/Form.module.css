@@ -1,0 +1,19 @@
+.control{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.control label{
+    font-weight: bold;
+    color: #212529;
+}
+.control input{
+    width: 60%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    color:#495057;
+    font-size: 15px;
+}

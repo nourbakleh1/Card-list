@@ -1,0 +1,26 @@
+.cardwraper{
+    padding: 5px 50px;
+    margin-bottom: 20px;
+    position: relative;
+    border-radius: 10px;
+  
+
+
+}
+.BTN{
+    position: absolute;
+    top:-8px;
+    right: -5px;
+    border-radius: 50%;
+    border: 0;
+    background-color: red;
+    color: aliceblue;
+    padding: 5px;
+    cursor: pointer;
+
+}
+.title-card{
+    color: rgb(11, 8, 224);
+    font-weight: bolder;
+    font-style: oblique;
+}
